@@ -8,7 +8,7 @@
 .cc-link,.cc-revoke:hover{text-decoration:underline}
 .cc-revoke,.cc-window{position:fixed;overflow:hidden;box-sizing:border-box;font-family:Helvetica,Calibri,Arial,sans-serif;font-size:16px;line-height:1.5em;display:-ms-flexbox;display:flex;-ms-flex-wrap:nowrap;flex-wrap:nowrap;z-index:9999}
 .cc-window.cc-static{position:static}
-.cc-window.cc-floating{background:#03a9f4;padding:2em;width:100%;max-width:100%;-ms-flex-direction:column;flex-direction:column}
+.cc-window.cc-floating{padding:2em;width:100%;max-width:100%;-ms-flex-direction:column;flex-direction:column}
 .cc-window.cc-banner{padding:1em 1.8em;width:100%;-ms-flex-direction:row;flex-direction:row}
 .cc-revoke{padding:.5em}
 .cc-header{font-size:18px;font-weight:700}
